@@ -1,0 +1,4 @@
+name: KeepInventory
+version: '${project.version}'
+main: fr.wakestufou.keepinventory.KeepInventory
+api-version: 1.19

@@ -1,0 +1,4 @@
+name: KeepInventory
+version: '1.0-SNAPSHOT'
+main: fr.wakestufou.keepinventory.KeepInventory
+api-version: 1.19
